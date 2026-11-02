@@ -1,0 +1,49 @@
+# data
+data/raw/
+data/
+EuroSAT/
+*.xlsx
+*.xls
+*.csv
+!data/sample/*.csv
+*.pkl
+*.parquet
+*.gpkg
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+*.qgz
+*.zip
+*.hwp
+*.hwpx
+*.pptx
+*.mp3
+*.mkv
+*.mp4
+# model weights
+*.pth
+*.pt
+output/
+# secrets / env
+.env
+.env.*
+*.pem
+*.key
+.claude/
+.streamlit/
+# python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+# logs
+*.log
+logs/
+# os / ide
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

@@ -1,0 +1,9 @@
+numpy
+opencv-python
+matplotlib
+scikit-learn
+seaborn
+torch
+torchvision
+# HW3-P3 (Mask R-CNN) — Colab 기준, detectron2는 노트북 첫 셀에서 소스 설치
+# detectron2 @ git+https://github.com/facebookresearch/detectron2
