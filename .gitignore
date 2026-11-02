@@ -47,3 +47,6 @@ logs/
 Thumbs.db
 .idea/
 .vscode/
+# review notes (local only)
+_manifest.md
+_redactions.md
